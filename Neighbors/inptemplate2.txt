@@ -1,0 +1,824 @@
+*End Part
+**  
+**
+** ASSEMBLY
+**
+*Assembly, name=Assembly
+**  
+*Instance, name=PART-1-1, part=PART-1
+*End Instance
+**  
+*End Assembly
+** 
+** MATERIALS
+** 
+*Material, name=MATERIAL-1
+*Depvar
+     40,
+*User Material, constants=2
+1.,1.
+*Material, name=MATERIAL-2
+*Depvar
+     40,
+*User Material, constants=2
+1.,2.
+*Material, name=MATERIAL-3
+*Depvar
+     40,
+*User Material, constants=2
+1.,3.
+*Material, name=MATERIAL-4
+*Depvar
+     40,
+*User Material, constants=2
+1.,4.
+*Material, name=MATERIAL-5
+*Depvar
+     40,
+*User Material, constants=2
+1.,5.
+*Material, name=MATERIAL-6
+*Depvar
+     40,
+*User Material, constants=2
+1.,6.
+*Material, name=MATERIAL-7
+*Depvar
+     40,
+*User Material, constants=2
+1.,7.
+*Material, name=MATERIAL-8
+*Depvar
+     40,
+*User Material, constants=2
+1.,8.
+*Material, name=MATERIAL-9
+*Depvar
+     40,
+*User Material, constants=2
+1.,9.
+*Material, name=MATERIAL-10
+*Depvar
+     40,
+*User Material, constants=2
+1.,10.
+*Material, name=MATERIAL-11
+*Depvar
+     40,
+*User Material, constants=2
+1.,11.
+*Material, name=MATERIAL-12
+*Depvar
+     40,
+*User Material, constants=2
+1.,12.
+*Material, name=MATERIAL-13
+*Depvar
+     40,
+*User Material, constants=2
+1.,13.
+*Material, name=MATERIAL-14
+*Depvar
+     40,
+*User Material, constants=2
+1.,14.
+*Material, name=MATERIAL-15
+*Depvar
+     40,
+*User Material, constants=2
+1.,15.
+*Material, name=MATERIAL-16
+*Depvar
+     40,
+*User Material, constants=2
+1.,16.
+*Material, name=MATERIAL-17
+*Depvar
+     40,
+*User Material, constants=2
+1.,17.
+*Material, name=MATERIAL-18
+*Depvar
+     40,
+*User Material, constants=2
+1.,18.
+*Material, name=MATERIAL-19
+*Depvar
+     40,
+*User Material, constants=2
+1.,19.
+*Material, name=MATERIAL-20
+*Depvar
+     40,
+*User Material, constants=2
+1.,20.
+*Material, name=MATERIAL-21
+*Depvar
+     40,
+*User Material, constants=2
+1.,21.
+*Material, name=MATERIAL-22
+*Depvar
+     40,
+*User Material, constants=2
+1.,22.
+*Material, name=MATERIAL-23
+*Depvar
+     40,
+*User Material, constants=2
+1.,23.
+*Material, name=MATERIAL-24
+*Depvar
+     40,
+*User Material, constants=2
+1.,24.
+*Material, name=MATERIAL-25
+*Depvar
+     40,
+*User Material, constants=2
+1.,25.
+*Material, name=MATERIAL-26
+*Depvar
+     40,
+*User Material, constants=2
+1.,26.
+*Material, name=MATERIAL-27
+*Depvar
+     40,
+*User Material, constants=2
+1.,27.
+*Material, name=MATERIAL-28
+*Depvar
+     40,
+*User Material, constants=2
+1.,28.
+*Material, name=MATERIAL-29
+*Depvar
+     40,
+*User Material, constants=2
+1.,29.
+*Material, name=MATERIAL-30
+*Depvar
+     40,
+*User Material, constants=2
+1.,30.
+*Material, name=MATERIAL-31
+*Depvar
+     40,
+*User Material, constants=2
+1.,31.
+*Material, name=MATERIAL-32
+*Depvar
+     40,
+*User Material, constants=2
+1.,32.
+*Material, name=MATERIAL-33
+*Depvar
+     40,
+*User Material, constants=2
+1.,33.
+*Material, name=MATERIAL-34
+*Depvar
+     40,
+*User Material, constants=2
+1.,34.
+*Material, name=MATERIAL-35
+*Depvar
+     40,
+*User Material, constants=2
+1.,35.
+*Material, name=MATERIAL-36
+*Depvar
+     40,
+*User Material, constants=2
+1.,36.
+*Material, name=MATERIAL-37
+*Depvar
+     40,
+*User Material, constants=2
+1.,37.
+*Material, name=MATERIAL-38
+*Depvar
+     40,
+*User Material, constants=2
+1.,38.
+*Material, name=MATERIAL-39
+*Depvar
+     40,
+*User Material, constants=2
+1.,39.
+*Material, name=MATERIAL-40
+*Depvar
+     40,
+*User Material, constants=2
+1.,40.
+*Material, name=MATERIAL-41
+*Depvar
+     40,
+*User Material, constants=2
+1.,41.
+*Material, name=MATERIAL-42
+*Depvar
+     40,
+*User Material, constants=2
+1.,42.
+*Material, name=MATERIAL-43
+*Depvar
+     40,
+*User Material, constants=2
+1.,43.
+*Material, name=MATERIAL-44
+*Depvar
+     40,
+*User Material, constants=2
+1.,44.
+*Material, name=MATERIAL-45
+*Depvar
+     40,
+*User Material, constants=2
+1.,45.
+*Material, name=MATERIAL-46
+*Depvar
+     40,
+*User Material, constants=2
+1.,46.
+*Material, name=MATERIAL-47
+*Depvar
+     40,
+*User Material, constants=2
+1.,47.
+*Material, name=MATERIAL-48
+*Depvar
+     40,
+*User Material, constants=2
+1.,48.
+*Material, name=MATERIAL-49
+*Depvar
+     40,
+*User Material, constants=2
+1.,49.
+*Material, name=MATERIAL-50
+*Depvar
+     40,
+*User Material, constants=2
+1.,50.
+*Material, name=MATERIAL-51
+*Depvar
+     40,
+*User Material, constants=2
+1.,51.
+*Material, name=MATERIAL-52
+*Depvar
+     40,
+*User Material, constants=2
+1.,52.
+*Material, name=MATERIAL-53
+*Depvar
+     40,
+*User Material, constants=2
+1.,53.
+*Material, name=MATERIAL-54
+*Depvar
+     40,
+*User Material, constants=2
+1.,54.
+*Material, name=MATERIAL-55
+*Depvar
+     40,
+*User Material, constants=2
+1.,55.
+*Material, name=MATERIAL-56
+*Depvar
+     40,
+*User Material, constants=2
+1.,56.
+*Material, name=MATERIAL-57
+*Depvar
+     40,
+*User Material, constants=2
+1.,57.
+*Material, name=MATERIAL-58
+*Depvar
+     40,
+*User Material, constants=2
+1.,58.
+*Material, name=MATERIAL-59
+*Depvar
+     40,
+*User Material, constants=2
+1.,59.
+*Material, name=MATERIAL-60
+*Depvar
+     40,
+*User Material, constants=2
+1.,60.
+*Material, name=MATERIAL-61
+*Depvar
+     40,
+*User Material, constants=2
+1.,61.
+*Material, name=MATERIAL-62
+*Depvar
+     40,
+*User Material, constants=2
+1.,62.
+*Material, name=MATERIAL-63
+*Depvar
+     40,
+*User Material, constants=2
+1.,63.
+*Material, name=MATERIAL-64
+*Depvar
+     40,
+*User Material, constants=2
+1.,64.
+*Material, name=MATERIAL-65
+*Depvar
+     40,
+*User Material, constants=2
+1.,65.
+*Material, name=MATERIAL-66
+*Depvar
+     40,
+*User Material, constants=2
+1.,66.
+*Material, name=MATERIAL-67
+*Depvar
+     40,
+*User Material, constants=2
+1.,67.
+*Material, name=MATERIAL-68
+*Depvar
+     40,
+*User Material, constants=2
+1.,68.
+*Material, name=MATERIAL-69
+*Depvar
+     40,
+*User Material, constants=2
+1.,69.
+*Material, name=MATERIAL-70
+*Depvar
+     40,
+*User Material, constants=2
+1.,70.
+*Material, name=MATERIAL-71
+*Depvar
+     40,
+*User Material, constants=2
+1.,71.
+*Material, name=MATERIAL-72
+*Depvar
+     40,
+*User Material, constants=2
+1.,72.
+*Material, name=MATERIAL-73
+*Depvar
+     40,
+*User Material, constants=2
+1.,73.
+*Material, name=MATERIAL-74
+*Depvar
+     40,
+*User Material, constants=2
+1.,74.
+*Material, name=MATERIAL-75
+*Depvar
+     40,
+*User Material, constants=2
+1.,75.
+*Material, name=MATERIAL-76
+*Depvar
+     40,
+*User Material, constants=2
+1.,76.
+*Material, name=MATERIAL-77
+*Depvar
+     40,
+*User Material, constants=2
+1.,77.
+*Material, name=MATERIAL-78
+*Depvar
+     40,
+*User Material, constants=2
+1.,78.
+*Material, name=MATERIAL-79
+*Depvar
+     40,
+*User Material, constants=2
+1.,79.
+*Material, name=MATERIAL-80
+*Depvar
+     40,
+*User Material, constants=2
+1.,80.
+*Material, name=MATERIAL-81
+*Depvar
+     40,
+*User Material, constants=2
+1.,81.
+*Material, name=MATERIAL-82
+*Depvar
+     40,
+*User Material, constants=2
+1.,82.
+*Material, name=MATERIAL-83
+*Depvar
+     40,
+*User Material, constants=2
+1.,83.
+*Material, name=MATERIAL-84
+*Depvar
+     40,
+*User Material, constants=2
+1.,84.
+*Material, name=MATERIAL-85
+*Depvar
+     40,
+*User Material, constants=2
+1.,85.
+*Material, name=MATERIAL-86
+*Depvar
+     40,
+*User Material, constants=2
+1.,86.
+*Material, name=MATERIAL-87
+*Depvar
+     40,
+*User Material, constants=2
+1.,87.
+*Material, name=MATERIAL-88
+*Depvar
+     40,
+*User Material, constants=2
+1.,88.
+*Material, name=MATERIAL-89
+*Depvar
+     40,
+*User Material, constants=2
+1.,89.
+*Material, name=MATERIAL-90
+*Depvar
+     40,
+*User Material, constants=2
+1.,90.
+*Material, name=MATERIAL-91
+*Depvar
+     40,
+*User Material, constants=2
+1.,91.
+*Material, name=MATERIAL-92
+*Depvar
+     40,
+*User Material, constants=2
+1.,92.
+*Material, name=MATERIAL-93
+*Depvar
+     40,
+*User Material, constants=2
+1.,93.
+*Material, name=MATERIAL-94
+*Depvar
+     40,
+*User Material, constants=2
+1.,94.
+*Material, name=MATERIAL-95
+*Depvar
+     40,
+*User Material, constants=2
+1.,95.
+*Material, name=MATERIAL-96
+*Depvar
+     40,
+*User Material, constants=2
+1.,96.
+*Material, name=MATERIAL-97
+*Depvar
+     40,
+*User Material, constants=2
+1.,97.
+*Material, name=MATERIAL-98
+*Depvar
+     40,
+*User Material, constants=2
+1.,98.
+*Material, name=MATERIAL-99
+*Depvar
+     40,
+*User Material, constants=2
+1.,99.
+*Material, name=MATERIAL-100
+*Depvar
+     40,
+*User Material, constants=2
+1.,100.
+*Material, name=MATERIAL-101
+*Depvar
+     40,
+*User Material, constants=2
+1.,101.
+*Material, name=MATERIAL-102
+*Depvar
+     40,
+*User Material, constants=2
+1.,102.
+*Material, name=MATERIAL-103
+*Depvar
+     40,
+*User Material, constants=2
+1.,103.
+*Material, name=MATERIAL-104
+*Depvar
+     40,
+*User Material, constants=2
+1.,104.
+*Material, name=MATERIAL-105
+*Depvar
+     40,
+*User Material, constants=2
+1.,105.
+*Material, name=MATERIAL-106
+*Depvar
+     40,
+*User Material, constants=2
+1.,106.
+*Material, name=MATERIAL-107
+*Depvar
+     40,
+*User Material, constants=2
+1.,107.
+*Material, name=MATERIAL-108
+*Depvar
+     40,
+*User Material, constants=2
+1.,108.
+*Material, name=MATERIAL-109
+*Depvar
+     40,
+*User Material, constants=2
+1.,109.
+*Material, name=MATERIAL-110
+*Depvar
+     40,
+*User Material, constants=2
+1.,110.
+*Material, name=MATERIAL-111
+*Depvar
+     40,
+*User Material, constants=2
+1.,111.
+*Material, name=MATERIAL-112
+*Depvar
+     40,
+*User Material, constants=2
+1.,112.
+*Material, name=MATERIAL-113
+*Depvar
+     40,
+*User Material, constants=2
+1.,113.
+*Material, name=MATERIAL-114
+*Depvar
+     40,
+*User Material, constants=2
+1.,114.
+*Material, name=MATERIAL-115
+*Depvar
+     40,
+*User Material, constants=2
+1.,115.
+*Material, name=MATERIAL-116
+*Depvar
+     40,
+*User Material, constants=2
+1.,116.
+*Material, name=MATERIAL-117
+*Depvar
+     40,
+*User Material, constants=2
+1.,117.
+*Material, name=MATERIAL-118
+*Depvar
+     40,
+*User Material, constants=2
+1.,118.
+*Material, name=MATERIAL-119
+*Depvar
+     40,
+*User Material, constants=2
+1.,119.
+*Material, name=MATERIAL-120
+*Depvar
+     40,
+*User Material, constants=2
+1.,120.
+*Material, name=MATERIAL-121
+*Depvar
+     40,
+*User Material, constants=2
+1.,121.
+*Material, name=MATERIAL-122
+*Depvar
+     40,
+*User Material, constants=2
+1.,122.
+*Material, name=MATERIAL-123
+*Depvar
+     40,
+*User Material, constants=2
+1.,123.
+*Material, name=MATERIAL-124
+*Depvar
+     40,
+*User Material, constants=2
+1.,124.
+*Material, name=MATERIAL-125
+*Depvar
+     40,
+*User Material, constants=2
+1.,125.
+*Material, name=MATERIAL-126
+*Depvar
+     40,
+*User Material, constants=2
+1.,126.
+*Material, name=MATERIAL-127
+*Depvar
+     40,
+*User Material, constants=2
+1.,127.
+*Material, name=MATERIAL-128
+*Depvar
+     40,
+*User Material, constants=2
+1.,128.
+*Material, name=MATERIAL-129
+*Depvar
+     40,
+*User Material, constants=2
+1.,129.
+*Material, name=MATERIAL-130
+*Depvar
+     40,
+*User Material, constants=2
+1.,130.
+*Material, name=MATERIAL-131
+*Depvar
+     40,
+*User Material, constants=2
+1.,131.
+*Material, name=MATERIAL-132
+*Depvar
+     40,
+*User Material, constants=2
+1.,132.
+*Material, name=MATERIAL-133
+*Depvar
+     40,
+*User Material, constants=2
+1.,133.
+*Material, name=MATERIAL-134
+*Depvar
+     40,
+*User Material, constants=2
+1.,134.
+*Material, name=MATERIAL-135
+*Depvar
+     40,
+*User Material, constants=2
+1.,135.
+*Material, name=MATERIAL-136
+*Depvar
+     40,
+*User Material, constants=2
+1.,136.
+*Material, name=MATERIAL-137
+*Depvar
+     40,
+*User Material, constants=2
+1.,137.
+*Material, name=MATERIAL-138
+*Depvar
+     40,
+*User Material, constants=2
+1.,138.
+*Material, name=MATERIAL-139
+*Depvar
+     40,
+*User Material, constants=2
+1.,139.
+*Material, name=MATERIAL-140
+*Depvar
+     40,
+*User Material, constants=2
+1.,140.
+*Material, name=MATERIAL-141
+*Depvar
+     40,
+*User Material, constants=2
+1.,141.
+*Material, name=MATERIAL-142
+*Depvar
+     40,
+*User Material, constants=2
+1.,142.
+*Material, name=MATERIAL-143
+*Depvar
+     40,
+*User Material, constants=2
+1.,143.
+*Material, name=MATERIAL-144
+*Depvar
+     40,
+*User Material, constants=2
+1.,144.
+*Material, name=MATERIAL-145
+*Depvar
+     40,
+*User Material, constants=2
+1.,145.
+*Material, name=MATERIAL-146
+*Depvar
+     40,
+*User Material, constants=2
+1.,146.
+*Material, name=MATERIAL-147
+*Depvar
+     40,
+*User Material, constants=2
+1.,147.
+*Material, name=MATERIAL-148
+*Depvar
+     40,
+*User Material, constants=2
+1.,148.
+*Material, name=MATERIAL-149
+*Depvar
+     40,
+*User Material, constants=2
+1.,149.
+*Material, name=MATERIAL-150
+*Depvar
+     40,
+*User Material, constants=2
+1.,150.
+*Material, name=MATERIAL-151
+*Depvar
+     40,
+*User Material, constants=2
+1.,151.
+** 
+** BOUNDARY CONDITIONS
+** 
+** Name: Disp-BC-1 Type: Displacement/Rotation
+*Boundary
+PART-1-1.X0, 1, 1
+** Name: Disp-BC-2 Type: Displacement/Rotation
+*Boundary
+PART-1-1.X0, 2, 2
+** Name: Disp-BC-3 Type: Displacement/Rotation
+*Boundary
+PART-1-1.X0, 3, 3
+** ----------------------------------------------------------------
+** 
+** STEP: Step-1
+** 
+*Step, name=Step-1, nlgeom=YES, inc=10000
+*Static
+0.1, 200., 0.002, 200.
+** 
+** BOUNDARY CONDITIONS
+** 
+** Name: Disp-BC-4 Type: Displacement/Rotation
+*Boundary
+PART-1-1.X1, 1, 1, 0.24
+** Name: Disp-BC-5 Type: Displacement/Rotation
+*Boundary
+PART-1-1.X1, 2, 2
+** Name: Disp-BC-6 Type: Displacement/Rotation
+*Boundary
+PART-1-1.X1, 3, 3
+** 
+** OUTPUT REQUESTS
+** 
+*Restart, write, frequency=0
+** 
+** FIELD OUTPUT: F-Output-1
+** 
+*Output, field, time interval=100.
+*Element Output, directions=YES
+ALPHA, ALPHAN, BF, CENTMAG, CENTRIFMAG, CORIOMAG, CS11, CTSHR, E, EE, ER, ESF1, FV, GRAV, HP, IE
+LE, MFR, MISES, MISESMAX, MISESONLY, NE, NFORC, NFORCSO, P, PE, PEEQ, PEEQMAX, PEEQT, PEMAG, PEQC, PRESSONLY
+PS, ROTAMAG, S, SALPHA, SDV, SE, SEE, SEP, SEPE, SF, SPE, SSAVG, STATUS, STATUSXFEM, THE, TRIAX
+TRNOR, TRSHR, TSHR, UVARM, VE, VEEQ, VS
+** 
+** FIELD OUTPUT: F-Output-2
+** 
+*Node Output
+CF, RF, RM, RT, TF, U, UR, UT
+V, VF, VR, VT
+** 
+** HISTORY OUTPUT: H-Output-1
+** 
+*Output, history, variable=PRESELECT
+*End Step
