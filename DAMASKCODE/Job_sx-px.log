@@ -1,0 +1,11 @@
+Abaqus JOB Job_sx-px
+Abaqus 6.14-2
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 5 tokens from Flexnet server DellDSD.uta.edu.
+<95 out of 100 licenses remain available>.
+Begin Compiling Abaqus/Standard User Subroutines
+11/5/2016 5:14:21 PM
+'ifort' is not recognized as an internal or external command,
+operable program or batch file.
+Abaqus Error: Problem during compilation - C:\Users\astl2\Desktop\CPFEM DAMASK\DAMASK\code\DAMASK_abaqus_std.for
+Abaqus/Analysis exited with errors
